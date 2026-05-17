@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm a Full-Stack Software Developer & IT Student 👋
 
-<!--
-**illumineMUTUYIMANA/illumineMUTUYIMANA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT student at the **University of Kigali** and a trainee at **The Gym** program, focused on mastering full-stack software development.
 
-Here are some ideas to get you started:
+I am passionate about building robust backend APIs, structured relational databases, and interactive user experiences. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I am heavily diving deep into advanced **JavaScript (ES6+)**, clean DOM manipulation, and modern coding design patterns.
+
+
+## 🛠️ My Tech Stack
+
+### Languages & Frameworks
+!JavaScript
+!Java
+!Spring Boot
+!boostrap
+!c
+
+### Frontend, Databases & Game Dev
+!Bootstrap
+!MySQL
+!Unity
+
+### Tools & Environments
+!Git
+!GitHub
+!IntelliJ IDEA
+!VS Code
+
+
+
+## 🚀 Current Focus & Learning Journey
+
+*   **Modern JavaScript:** Mastering ES6+ concepts, advanced scoping (Hoisting, TDZ), and asynchronous logic to build dynamic web features.
+*   **Backend Architecture:** Developing clean RESTful APIs using enterprise frameworks like Spring Boot and C# .NET.
+*   **Algorithmic Problem Solving:** Writing scalable, optimized logic to solve complex computational challenges and data manipulation.
+*   
+
+## 📫 Connect with Me
+*   **Email:** [mutuyiillumine2@gmail.com](mailto:mutuyiillumine2@gmail.com)
+*   **LinkedIn:** (https://www.linkedin.com/in/mutuyimana-illumin%C3%A9e)
