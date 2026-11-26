@@ -8,21 +8,21 @@ Right now, I am heavily diving deep into advanced **JavaScript (ES6+)**, clean D
 ## 🛠️ My Tech Stack
 
 ### Languages & Frameworks
-!JavaScript
-!Java
-!Spring Boot
-!boostrap
-!c
+JavaScript
+Java
+Spring Boot
+boostrap
+c
 ### Frontend, Databases & Game Dev
-!Bootstrap
-!MySQL
-!Unity
+Bootstrap
+MySQL
+Unity
 
 ### Tools & Environments
-!Git
-!GitHub
-!IntelliJ IDEA
-!VS Code
+Git
+GitHub
+IntelliJ IDEA
+VS Code
 ## 🚀 Current Focus & Learning Journey
 
 *   **Modern JavaScript:** Mastering ES6+ concepts, advanced scoping (Hoisting, TDZ), and asynchronous logic to build dynamic web features.
