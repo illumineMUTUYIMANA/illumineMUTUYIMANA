@@ -30,4 +30,4 @@ VS Code
 *   **Algorithmic Problem Solving:** Writing scalable, optimized logic to solve complex computational challenges and data manipulation.
 ## Connect with Me
 *   **Email:** [mutuyiillumine2@gmail.com](mailto:mutuyiillumine2@gmail.com)
-*   **LinkedIn:** (https://www.linkedin.com/in/mutuyimana-illumin%C3%A9e)
+*   **LinkedIn:** <a href rel="https://www.linkedin.com/in/mutuyimana-illumin%C3%A9e-90191029b/">Illuminée </a>
